@@ -21,3 +21,8 @@ function fancyAlert(arg) {
 
 - bla
 - bla
+
+```
+super
+
+```
