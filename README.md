@@ -20,7 +20,4 @@ function fancyAlert(arg) {
 - bla
 - bla
 
-```
-super
-
-```
+- Hello World
