@@ -2,6 +2,8 @@
 
 Projekt dostarcza autoamty ...
 
+![Tux, the Linux mascot](https://th.bing.com/th/id/Rdb69d9364338a1982d5a5277c3903d60?rik=W4VDkDmTbWZMNw&pid=ImgRaw)
+
 ```
 python script1.py --USERNAME $USER --password $password
 ```
